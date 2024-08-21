@@ -83,7 +83,5 @@ public class JavaEx01 {
         // for(초기식; 조건식; 증감식) {}
         // while : 조건식이 true(참)인 경우 반복
         // do-while문 : 코드 블록을 먼저 실행하고, 조건식이 참이면 반복 실행
-
-        /
     }
 }
